@@ -1,5 +1,5 @@
-class HelloWorld{
+public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("i have a pen!修改之后看看能不能获取!");
+		System.out.println("i have a pen!   ni shi yi ge sha bi???!");
 	}
 }
