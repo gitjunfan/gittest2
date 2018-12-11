@@ -1,2 +1,2 @@
 # gittest2
-第二个测试用过
+git  the second test
